@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45633#Les-belles-de-nuit-Tome-Vou-les-anges-de-la-famille
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-05-11'
 gutenberg_type: Text
